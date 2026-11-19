@@ -1,6 +1,6 @@
 # Shantanu Parkhande · Portfolio
 
-An interactive portfolio: walk up to a concept car at sunset, open the door, take a seat, log in on the centre screen and explore.
+A bold editorial hero, then an interactive portfolio: walk up to a concept car at sunset, open the door, take a seat, log in on the centre screen and explore.
 
 - **Apps:** About, Experience, Skills, Projects, Education, Contact
 - **Games:** Wire Fix (connect the bus wires to light the bulb) and ECU Blocks (falling blocks)
